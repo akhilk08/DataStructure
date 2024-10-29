@@ -16,7 +16,7 @@ printf("\nStack using linked list\n");
 printf("\n1.PUSH\n2.POP\n3.DISPLAY\n4.EXIT");
 while(1)
 {
-printf("\nEnter the choice:");
+printf("\n\nEnter the choice:");
 scanf("%d",&choice);
 switch(choice)
 	{
